@@ -1,2 +1,2 @@
-const myVar = "0-javascript_is_amazing.js";
+const myVar = "avaScript is amazing";
 console.log(myVar);
